@@ -1,6 +1,16 @@
-# CodelabsFlutterApp
-Write your first flutter app from Google Codelabs.
+# startup_app
 
-Part 1 can be found here https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/?authuser=0#0
+A new Flutter application.
 
-Part 2 can be found here https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2?hl=en&continue=https%3A%2F%2Fcodelabs.developers.google.com%2F%3Fhl%3Den%26authuser%3D0&authuser=0#0
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
